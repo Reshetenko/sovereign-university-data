@@ -1,4 +1,4 @@
-[# The Sovereign University Content Repo
+# The Sovereign University Content Repo
 
 Welcome to the Sovereign University Content Repo! There's a chance that if you are here, it is to contribute to this larger-than-us project, which aims at consolidating the first multilingual and open-source e-learning platform focused on Bitcoin. (If you're just lost on GitHub, visit our [website](https://planb.network/) to learn more about Bitcoin).
 
