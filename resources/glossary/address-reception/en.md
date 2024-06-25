@@ -11,4 +11,4 @@ However, a receiving address can also represent something else depending on the 
 
 A receiving address can be represented as an alphanumeric string or in the form of a QR code. Each address can be used multiple times, but this is a highly discouraged practice. Indeed, in order to maintain a certain level of privacy, it is advised to use each Bitcoin address only once. A new address should be generated for every incoming payment to one's wallet. An address is encoded in `Bech32` for SegWit V0 addresses, in `Bech32m` for SegWit V1 addresses, and in `Base58check` for Legacy addresses. From a technical standpoint, an address does not actually allow the receipt of bitcoins, but rather locks bitcoins using a script, putting constraints on their spending.
 
-![](../../dictionnaire/assets/23.png)
+![](../../dictionnaire/assets/23.webp)

@@ -11,4 +11,4 @@ Pero una dirección de recepción también puede representar algo diferente depe
 
 Una dirección de recepción puede representarse en forma de una cadena de caracteres alfanuméricos o como un código QR. Cada dirección puede utilizarse varias veces, pero es una práctica muy desaconsejada. De hecho, con el objetivo de mantener un cierto nivel de privacidad, se recomienda usar cada dirección Bitcoin solo una vez. Es necesario generar una nueva para cada pago entrante hacia su cartera. Una dirección está codificada en `Bech32` para las direcciones SegWit V0, en `Bech32m` para las direcciones SegWit V1, y en `Base58check` para las direcciones Legacy. Desde un punto de vista técnico, una dirección no permite realmente recibir bitcoins, sino más bien bloquear bitcoins usando un script, poniendo restricciones sobre su gasto.
 
-![](../../dictionnaire/assets/23.png)
+![](../../dictionnaire/assets/23.webp)
