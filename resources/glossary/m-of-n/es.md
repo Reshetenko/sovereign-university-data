@@ -1,0 +1,3 @@
+## M-DE-N
+
+Designa un monedero o un script multisignatura con umbral. Para aumentar la seguridad de los bitcoins, se puede utilizar un sistema de seguridad multisignatura con umbral que exige que `m` de `n` firmas sean realizadas para poder gastar los fondos. En un m-de-n, la letra `m` indica el umbral de firmas requeridas y la letra `n` indica el número total de claves existentes que pueden firmar. Por ejemplo, en una configuración 2-de-3, dos de las tres posibles firmas son necesarias para ejecutar una transacción.

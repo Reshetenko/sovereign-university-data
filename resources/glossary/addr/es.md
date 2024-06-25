@@ -1,0 +1,3 @@
+## ADDR
+
+Mensaje de red anteriormente utilizado en Bitcoin para comunicar las direcciones de los nodos que aceptan conexiones entrantes. Este antiguo formato, limitándose a 128 bits por dirección, solo era adecuado para direcciones IPv6, IPv4 y direcciones Tor de versión 2. Ante la llegada de nuevos protocolos como Tor V3 y la necesidad de contar con una mejor escalabilidad para futuros protocolos de red, el formato `addr` fue reemplazado por `addrv2`, introducido en el BIP155.

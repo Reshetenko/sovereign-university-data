@@ -1,0 +1,5 @@
+## BLOCKCHAIN
+
+La blockchain es el nombre comúnmente dado al servidor de sellado de tiempo distribuido del sistema Bitcoin. Es una cadena de bloques. Cada bloque está vinculado al siguiente por su huella criptográfica. Para evitar el doble gasto en Bitcoin sin recurrir a una autoridad central, es necesario que cada usuario verifique la no existencia de una transacción en el sistema. La única manera de asegurarse de la ausencia de una transacción es estar al tanto de todas las transacciones Bitcoin pasadas. Con este objetivo, las transacciones son selladas en el tiempo dentro de bloques, y cada usuario tiene acceso a la totalidad de la blockchain.
+
+► ***NOTA:** Debido a las numerosas utilizaciones de marketing abusivas del término "Blockchain", especialmente a finales de la década de 2010, muchos bitcoiners rechazan el uso de esta palabra. Algunos prefieren hablar de "TimeChain" para referirse a este concepto. Otros, refiriéndose al White Paper de Satoshi Nakamoto, hablan de una "Proof-of-Work Chain". En francés, el término inglés "Blockchain" es ampliamente aceptado. También se puede utilizar la traducción "cadena de bloques".*
