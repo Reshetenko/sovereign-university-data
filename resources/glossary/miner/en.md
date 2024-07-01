@@ -1,3 +1,0 @@
-## MINER
-
-In the context of Bitcoin, a miner refers to a computer engaged in the mining process, which involves participating in the Proof-of-Work. The miner groups pending transactions in its mempool to form a candidate block. Then, it searches for a valid hash, lower or equal to the target, for the header of this block by modifying the various nonces. If it finds a valid hash, it broadcasts its block to the Bitcoin network and collects the associated monetary reward, consisting of the block subsidy (creation of new bitcoins out of nothing), and transaction fees. By extension, the term "miner" also refers to the person or entity that owns and operates one or more of these computers.

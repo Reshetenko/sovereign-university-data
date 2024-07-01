@@ -1,3 +1,5 @@
-## B-MONEY
+---
+term: B-MONEY
+---
 
 Prototipo de criptomoneda descentralizada diseñado por Wei Dai en 1998. Este sistema imaginaba una red donde los participantes serían identificados únicamente por claves públicas, y donde cada transacción sería firmada por el remitente. B-money se establecía sobre un modelo de cuentas en lugar de UTXO, como ocurre con Bitcoin actualmente. Permitía la creación de moneda mediante una especie de prueba de trabajo vinculada a un conjunto de mercancías. Por lo tanto, fue un precursor del principio actual de stablecoin. Este concepto nunca fue implementado.

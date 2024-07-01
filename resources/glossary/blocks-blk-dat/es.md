@@ -1,3 +1,0 @@
-## BLOQUES/BLK?????.DAT
-
-Nombre de los archivos en Bitcoin Core que almacenan los datos brutos de los bloques de la blockchain. Cada archivo es identificado por un número único en su nombre. Así, los bloques se registran en orden cronológico, comenzando con el archivo blk00000.dat. Cuando este archivo alcanza su capacidad máxima, los bloques siguientes se registran en blk00001.dat, luego en blk00002.dat, y así sucesivamente. Cada archivo blk tiene una capacidad máxima de 128 mebioctetos (MiB), lo que equivale a un poco más de 134 megaoctetos (Mo).

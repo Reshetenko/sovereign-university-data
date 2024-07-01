@@ -1,3 +1,0 @@
-## MINERO
-
-En el contexto de Bitcoin, un minero se refiere a un ordenador comprometido en el proceso de minería, que consiste en participar en la prueba de trabajo (Proof-of-Work). El minero agrupa las transacciones pendientes en su mempool para formar un bloque candidato. Luego, busca un hash válido, inferior o igual al objetivo, para el encabezado de este bloque modificando los diferentes nonces. Si encuentra un hash válido, difunde su bloque en la red Bitcoin y recibe la recompensa monetaria asociada, compuesta por la subvención de bloque (creación de nuevos bitcoins de la nada), y las tasas de transacción. Por extensión, el término "minero" también designa a la persona o entidad que posee y opera uno o más de estos ordenadores.
