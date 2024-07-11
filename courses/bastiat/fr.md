@@ -327,9 +327,7 @@ Selon Bastiat, la société, les personnes et les propriétés existent antérie
 
 ![video](https://youtu.be/Nl9jnDV5RxE?si=pi5790tPHLGMzch_)
 
-Il est triste de penser que notre philosophie sociale et politique en est restée à l’idée que la solution à tous nos problèmes devait venir d’en haut, de la loi, de l’Etat. Mais cela s'explique. Ces idées sont inculquées tous les jours à la jeunesse dans les écoles et les universités, via le monopole de l’enseignement. Or, comme le rappelle Bastiat, le monopole exclut le progrès.
-
-Convaincu que la bonne société est une création de la loi, Rousseau accorde donc un pouvoir sans limite au législateur. C’est à lui de transformer les personnes en hommes accomplis, en citoyens.
+Le 24 février 1848, au terme de trois jours d'émeutes à Paris le roi Louis-Philippe 1er quitte le pouvoir. C'est la naissance de la seconde République. Bastiat est à Paris, il assiste en direct aux événements. Un peu plus tard, il écrira : « Au 24 février, j'ai pu craindre, comme bien d'autres, que la nation ne fût pas préparée à se gouverner elle-même. Je redoutais, je l'avoue, l'influence des idées grecques et romaines qui nous sont imposées à tous par le monopole universitaire. » 
 
 On est surpris à la lecture de ce passage. Que viennent faire ici l’Antiquité grecque et romaine ? Bastiat fait allusion à la République de Platon et à sa théorie du philosophe-roi, mais aussi à Sparte, que Rousseau admirait tant, à l’empire romain, dont Napoléon était si nostalgique. Malheureusement, ces idées grecques et romaines reposent sur une idée fausse selon Bastiat : l’idée de l’omnipotence du législateur, de la souveraineté absolue de la loi.
 
