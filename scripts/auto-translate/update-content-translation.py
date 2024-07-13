@@ -190,16 +190,7 @@ def main():
             git_commit(message_commit)
     target_branch = 'dev'
     pr_title = '[Automated] upload batch translations'
-    body = """ 
-            This PR was sent by the auto-translated script. It used 
-            LLM-Translator to translate the language-specific files in all supported
-            languages. With the current version of this script and due to random behaviors
-            of LLMs, there's a probability that some files did not respect PBN standard
-            formats. If it's the case, the formatting error will be resolved before
-            merging.
-            This is not a real PR but a test so it will be simply closed, or
-            even deleted.
-          """
+    body = """ This PR was sent by the auto-translated script. It used LLM-Translator to translate the language-specific files in all supported languages. With the current version of this script and due to random behaviors of LLMs, there's a probability that some files did not respect PBN standard formats. If it's the case, the formatting error will be resolved before merging. This is not a real PR but a test so it will be simply closed, or even deleted."""
     create_pull_request(target_branch, pr_title, body) 
     print("So far so good!")
 
